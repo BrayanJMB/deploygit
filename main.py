@@ -4,5 +4,5 @@ def gol():
     print("golazo")
     print("golazo")
     print("golazo")
-    print("messi cr7")
+    print("messi the best")
     return None
