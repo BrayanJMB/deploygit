@@ -1,8 +1,3 @@
 def gol():
-    print("golazo")
-    print("golazo")
-    print("golazo")
-    print("golazo")
-    print("golazo")
-    print("messi the best")
+    print("holi")
     return None
